@@ -25,7 +25,7 @@
 **步骤 1：创建 KV 命名空间**
 
 1. 登录 [Cloudflare 控制台](https://dash.cloudflare.com)
-2. 左侧菜单选择 **Workers & Pages** → **KV**
+2. 左侧菜单选择 **Storage and databases** → **Workers KV**
 3. 点击 **Create a namespace**，命名为 `host`
 4. 创建成功后，复制它的 **ID**（一串长字符）
 
@@ -51,7 +51,7 @@
 
 **步骤 5：完成**
 
-访问你的 Worker 域名（`https://<worker-name>.<subdomain>.workers.dev`），即可开始使用。
+访问你的 Worker 域名（`https://<worker-name>.<subdomain>.workers.dev`），即可开始使用。国内访问被墙，建议绑定自定义域名。
 
 ## 立即体验
 
