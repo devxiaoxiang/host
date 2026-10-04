@@ -2,7 +2,7 @@
 
 一个基于 Cloudflare Workers + KV 的极简 HTML 托管平台。粘贴代码，即时生成可访问的 HTTPS 链接。
 
-![小象部署](https://cdn.smallelephant.ccwu.cc/logo.jpg)
+![小象部署](https://cdn.smallelephant.de5.net/logo.jpg)
 
 ## 项目简介
 
