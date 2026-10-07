@@ -55,7 +55,7 @@
 
 ## 立即体验
 
-👉 [https://host.smallelephant.ccwu.cc](https://host.smallelephant.ccwu.cc)
+👉 [https://host.smallelephant.de5.net](https://host.smallelephant.de5.net)
 
 ## Worker 请求数据库需要什么？
 
